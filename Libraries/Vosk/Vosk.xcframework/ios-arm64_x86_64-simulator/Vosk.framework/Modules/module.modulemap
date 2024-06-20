@@ -1,0 +1,5 @@
+module Vosk {
+header "Headers/vosk_api.h"
+link "Vosk"
+export *
+}
